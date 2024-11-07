@@ -1,0 +1,10 @@
+[rectangles]
+300,250
+1300,1200
+
+[main rectangle]
+5000,2500
+
+[scale]
+1.1
+
